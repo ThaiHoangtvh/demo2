@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ThaiHoangtvh/demo2.git/static/css/main.5b2c561e.css",
-    "main.js": "/ThaiHoangtvh/demo2.git/static/js/main.d69290df.js",
-    "static/media/imgHeader.jpg": "/ThaiHoangtvh/demo2.git/static/media/imgHeader.1565fc4e05bc12a8da4d.jpg",
-    "index.html": "/ThaiHoangtvh/demo2.git/index.html",
-    "main.5b2c561e.css.map": "/ThaiHoangtvh/demo2.git/static/css/main.5b2c561e.css.map",
-    "main.d69290df.js.map": "/ThaiHoangtvh/demo2.git/static/js/main.d69290df.js.map"
+    "main.css": "/demo2/static/css/main.34cb7912.css",
+    "main.js": "/demo2/static/js/main.d69290df.js",
+    "static/media/imgHeader.jpg": "/demo2/static/media/imgHeader.1565fc4e05bc12a8da4d.jpg",
+    "index.html": "/demo2/index.html",
+    "main.34cb7912.css.map": "/demo2/static/css/main.34cb7912.css.map",
+    "main.d69290df.js.map": "/demo2/static/js/main.d69290df.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b2c561e.css",
+    "static/css/main.34cb7912.css",
     "static/js/main.d69290df.js"
   ]
 }
